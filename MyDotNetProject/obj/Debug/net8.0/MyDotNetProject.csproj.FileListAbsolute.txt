@@ -1,0 +1,15 @@
+C:\Users\poude\Desktop\.NET_Project\MyDotNetProject\bin\Debug\net8.0\MyDotNetProject.exe
+C:\Users\poude\Desktop\.NET_Project\MyDotNetProject\bin\Debug\net8.0\MyDotNetProject.deps.json
+C:\Users\poude\Desktop\.NET_Project\MyDotNetProject\bin\Debug\net8.0\MyDotNetProject.runtimeconfig.json
+C:\Users\poude\Desktop\.NET_Project\MyDotNetProject\bin\Debug\net8.0\MyDotNetProject.dll
+C:\Users\poude\Desktop\.NET_Project\MyDotNetProject\bin\Debug\net8.0\MyDotNetProject.pdb
+C:\Users\poude\Desktop\.NET_Project\MyDotNetProject\obj\Debug\net8.0\MyDotNetProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poude\Desktop\.NET_Project\MyDotNetProject\obj\Debug\net8.0\MyDotNetProject.AssemblyInfoInputs.cache
+C:\Users\poude\Desktop\.NET_Project\MyDotNetProject\obj\Debug\net8.0\MyDotNetProject.AssemblyInfo.cs
+C:\Users\poude\Desktop\.NET_Project\MyDotNetProject\obj\Debug\net8.0\MyDotNetProject.csproj.CoreCompileInputs.cache
+C:\Users\poude\Desktop\.NET_Project\MyDotNetProject\obj\Debug\net8.0\MyDotNetProject.sourcelink.json
+C:\Users\poude\Desktop\.NET_Project\MyDotNetProject\obj\Debug\net8.0\MyDotNetProject.dll
+C:\Users\poude\Desktop\.NET_Project\MyDotNetProject\obj\Debug\net8.0\refint\MyDotNetProject.dll
+C:\Users\poude\Desktop\.NET_Project\MyDotNetProject\obj\Debug\net8.0\MyDotNetProject.pdb
+C:\Users\poude\Desktop\.NET_Project\MyDotNetProject\obj\Debug\net8.0\MyDotNetProject.genruntimeconfig.cache
+C:\Users\poude\Desktop\.NET_Project\MyDotNetProject\obj\Debug\net8.0\ref\MyDotNetProject.dll
